@@ -1,0 +1,11 @@
+# Plugins Used in TrendNest (WordPress E-commerce Project)
+
+1. Elementor – Page builder for layout and design
+2. WooCommerce – E-commerce functionality (products, cart, checkout)
+3. WPForms – Contact form creation
+4. Yoast SEO – Basic SEO setup
+5. LiteSpeed Cache – Speed and performance optimization
+
+(Optional)
+6. Custom Fonts – To load local fonts
+7. WooCommerce Stripe Gateway – (If planning payment integration later)
