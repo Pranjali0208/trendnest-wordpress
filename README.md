@@ -24,7 +24,8 @@ TrendNest is a WordPress-based e-commerce project designed using Elementor and W
 Screenshots available in the `/screenshots` folder
 
 ## 📹 Demo Video
-[Download and watch the demo video](./trendnest-demo.mp4)
+[Watch the demo on Streamable](https://streamable.com/yourlink)
+
 
 ## 🔧 Future Improvements
 - Add payment integration (e.g. Razorpay)
