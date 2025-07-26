@@ -1,6 +1,6 @@
 # 🛍️ TrendNest – WordPress E-commerce Website
 
-**Platform**: WordPress Dashboar
+**Platform**: WordPress Dashboard
 **Tools Used**: Elementor, WooCommerce, WPForms, Yoast SEO
 
 ## 📌 Description
